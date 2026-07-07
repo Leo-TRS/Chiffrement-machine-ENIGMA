@@ -1,5 +1,5 @@
 # Chiffrement-machine-ENIGMA
-Machine de chiffrement ENIGMA en python (OOP) 
+Machine de chiffrement ENIGMA en python (POO) 
 
 --Enigma--
 
