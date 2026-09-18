@@ -23,9 +23,9 @@ Propriété du reflecteur : rechiffrer un message chiffre avec la meme configura
 
 Le projet est construit en programmation orientee objet avec trois classes qui interagissent :
 
-Rotor — gère le cablage, la rotation et le chiffrement dans les deux sens (aller et retour). Sert aussi pour le réflecteur (un rotor qui ne tourne pas).
-Plugboard — echange des paires de lettres avant et apres le passage dans les rotors.
-Enigma — assemble les composants et orchestre le parcours complet de chaque lettre.
+Rotor : gère le cablage, la rotation et le chiffrement dans les deux sens (aller et retour). Sert aussi pour le réflecteur (un rotor qui ne tourne pas).
+Plugboard : echange des paires de lettres avant et apres le passage dans les rotors.
+Enigma : assemble les composants et orchestre le parcours complet de chaque lettre.
 
 Les cablages utilises sont ceux des rotors historiques I, II, III et du reflecteur B.
 
